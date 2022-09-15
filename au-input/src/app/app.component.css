@@ -29,4 +29,8 @@ h1 {
   margin-bottom: 30px;
   margin-top: 50px;
 }
+/* emulated view encapsulation */
+.stripe-field  au-fa-input {
+  border: 1px solid green;
+}
 
